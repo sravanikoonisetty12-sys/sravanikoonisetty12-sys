@@ -1,83 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Gowri%20Sravani%20Koonisetty&fontSize=35&fontColor=ffffff&color=0:7F5AF0,50:2CB67D,100:00C2FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,30,20,12&text=Gowri%20Sravani%20Koonisetty&fontColor=ffffff&fontSize=38&fontAlignY=36&animation=fadeIn"/>
 
-### ✨ Frontend Developer • UI Designer • Next.js • React • TypeScript
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer+%E2%9C%A8;UI+Designer+%F0%9F%8E%A8;Next.js+%7C+React+%7C+TypeScript;Creating+Modern+Digital+Experiences"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI+Designer;Worked+on+Client+Management+System;Creating+Modern+Web+Experiences"/>
+<p>
+  <img src="https://img.shields.io/badge/UI%20Designer-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
 
 </div>
-
----
-
-## 🎨 About Me
-
-I'm a **Frontend Developer** with a passion for **UI Design** and creating clean, responsive, and user-friendly web experiences.
-
-- 💼 Worked on a **Client Management System** using Next.js, Supabase, and Razorpay.
-- 🎨 Focused on modern UI, responsive layouts, and user experience.
-- ⚛️ Building projects with React, Next.js, and TypeScript.
-- 🌱 Continuously learning and improving frontend development skills.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,figma,git,github,vscode"/>
-</p>
-
----
-
-## 🚀 Featured Project
-
-### Client Management System
-
-Built using **Next.js, Supabase, and Razorpay**.
-
-- ✅ User Authentication
-- 📂 File Upload Management
-- 📊 Admin Dashboard
-- 🧾 Invoice Management
-- 💳 Payment Integration
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravanikoonisetty12-sys&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📊 GitHub Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravanikoonisetty12-sys&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/gowri-sravani-koonisetty-97225331b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-📍 Andhra Pradesh, India
-</p>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C2FF,50:7F5AF0,100:2CB67D"/>
-
-</div>
-
