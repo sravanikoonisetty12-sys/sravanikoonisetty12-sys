@@ -1,111 +1,87 @@
-
 <div align="center">
 
-# Hi 👋 I'm Gowri Sravani Koonisetty
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Gowri%20Sravani%20Koonisetty&fontSize=35&fontColor=ffffff&color=0:7F5AF0,50:2CB67D,100:00C2FF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;Worked+on+Client+Management+System" />
+### ✨ Frontend Developer • UI Designer • Next.js • React • TypeScript
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI+Designer;Worked+on+Client+Management+System;Creating+Modern+Web+Experiences"/>
 
 </div>
 
-## 💫 About Me
+---
 
-Frontend Developer passionate about building clean, responsive, and user-friendly web applications.
+## 🎨 About Me
+
+I'm a **Frontend Developer** with a passion for **UI Design** and creating clean, responsive, and user-friendly web experiences.
 
 - 💼 Worked on a **Client Management System** using Next.js, Supabase, and Razorpay.
-- ⚛️ Building modern web applications with **React** and **Next.js**.
-- 🎨 Interested in creating responsive and intuitive user interfaces.
+- 🎨 Focused on modern UI, responsive layouts, and user experience.
+- ⚛️ Building projects with React, Next.js, and TypeScript.
 - 🌱 Continuously learning and improving frontend development skills.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,git,github,vscode,figma" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,figma,git,github,vscode"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### Client Management System (Nexus Client Portal)
+### Client Management System
 
 Built using **Next.js, Supabase, and Razorpay**.
 
-- Secure User Authentication
-- Admin Dashboard
-- File Upload Management
-- Invoice Management
-- Payment Integration
-
-### Test Next.js App
-
-A modern Next.js application built with responsive UI and App Router features.
+- ✅ User Authentication
+- 📂 File Upload Management
+- 📊 Admin Dashboard
+- 🧾 Invoice Management
+- 💳 Payment Integration
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sravanikoonisetty12-sys&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravanikoonisetty12-sys&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravanikoonisetty12-sys&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 GitHub Profile Summary
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravanikoonisetty12-sys&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🌊 Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravanikoonisetty12-sys&theme=github_dark"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sravanikoonisetty12-sys&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravanikoonisetty12-sys&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/gowri-sravani-koonisetty-97225331b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-[![LinkedIn](https://www.linkedin.com/in/gowri-sravani-koonisetty-97225331b/)
-
+<p align="center">
 📍 Andhra Pradesh, India
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 💙
+### 💙 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C2FF,50:7F5AF0,100:2CB67D"/>
 
 </div>
+
+
+
+
+
