@@ -1,49 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,30,20,12&text=Gowri%20Sravani%20Koonisetty&fontColor=ffffff&fontSize=38&fontAlignY=36&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Gowri%20Sravani%20Koonisetty&fontSize=35&fontColor=ffffff&color=0:7F5AF0,50:2CB67D,100:00C2FF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=Frontend+Developer+%E2%9C%A8;UI+Designer+%F0%9F%8E%A8;Next.js+%7C+React+%7C+TypeScript;Creating+Modern+Digital+Experiences"/>
+### ✨ Frontend Developer • UI Designer • Next.js • React • TypeScript
 
-<p>
-  <img src="https://img.shields.io/badge/UI%20Designer-8B5CF6?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI+Designer;Worked+on+Client+Management+System;Creating+Modern+Web+Experiences"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🎨 About Me
 
-Frontend Developer with a passion for **UI Design**, creating clean, responsive, and user-friendly web experiences.
+I'm a **Frontend Developer** with a passion for **UI Design** and creating clean, responsive, and user-friendly web experiences.
 
 - 💼 Worked on a **Client Management System** using Next.js, Supabase, and Razorpay.
-- 🎨 Passionate about modern UI, responsive layouts, and user experience.
+- 🎨 Focused on modern UI, responsive layouts, and user experience.
 - ⚛️ Building projects with React, Next.js, and TypeScript.
-- 🌱 Continuously improving my frontend and design skills.
+- 🌱 Continuously learning and improving frontend development skills.
 
 ---
 
-# 🎨 Design Mindset
+## 🛠️ Tech Stack
 
-> "I enjoy designing interfaces that are visually appealing, intuitive, and responsive—combining creativity with frontend development to create meaningful user experiences."
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,figma,git,github,vscode"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## Client Management System
+### Client Management System
 
 Built using **Next.js, Supabase, and Razorpay**.
 
@@ -55,39 +43,33 @@ Built using **Next.js, Supabase, and Razorpay**.
 
 ---
 
-# 📈 GitHub Activity
+## 📈 Contribution Activity
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sravanikoonisetty12-sys&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🌊 Contribution Overview
+## 📊 GitHub Profile Summary
 
-<div align="center">
-
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravanikoonisetty12-sys&theme=tokyonight"/>
-
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/gowri-sravani-koonisetty-97225331b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
-<br/><br/>
-
+<p align="center">
 📍 Andhra Pradesh, India
-
-</div>
+</p>
 
 ---
 
@@ -95,11 +77,7 @@ Built using **Next.js, Supabase, and Razorpay**.
 
 ### 💙 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C2FF,50:7F5AF0,100:2CB67D"/>
 
 </div>
-
-
-
-
 
