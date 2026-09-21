@@ -59,17 +59,29 @@ Built using **Next.js, Supabase, and Razorpay**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravanikoonisetty12-sys&theme=tokyo-night&hide_border=true"/>
+<a href="https://github.com/sravanikoonisetty12-sys" target="_blank">
+<img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sravanikoonisetty12-sys?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🌊 Contribution Overview
+# 🌊 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravanikoonisetty12-sys&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Frontend%20Development-React%20%7C%20Next.js-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Programming-TypeScript%20%7C%20JavaScript-F7DF1E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
@@ -98,3 +110,4 @@ Built using **Next.js, Supabase, and Razorpay**.
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
+
